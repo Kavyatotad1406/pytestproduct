@@ -1,7 +1,7 @@
 def product_details(name, prod_id, quantity, price):
     result = (
        f"Product Name   : {name}\n"
-        f"Product ID     : {product_id}\n"
+        f"Product ID     : {prod_id}\n"
         f"Quantity      : {quantity}\n"  
         f"Price          : {price}"
     )
